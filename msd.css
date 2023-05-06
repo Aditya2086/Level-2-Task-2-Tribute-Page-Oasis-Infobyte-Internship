@@ -14,7 +14,7 @@ html {
 } */
 
 :root {
-  --background: #fdff99; /* Global Variable in CSS */
+  --background: #99d6ff; /* Global Variable in CSS */
 }
 
 body {
@@ -99,7 +99,7 @@ a:hover {
   justify-content: center;
   align-items: center; */
   color: black;
-  background-color: #99feff;
+  background-color: #f6fcfc;
   border: 2px solid black;
   border-radius: 8px;
   padding: 4px 8px;
